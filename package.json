@@ -1,0 +1,35 @@
+{
+  "name": "NodeMongoAngular",
+  "version": "0.0.0",
+  "description": "from LiveLessons",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.0.0",
+    "body-parser": "^1.4.3",
+    "censorify": "^0.1.1",
+    "connect-mongo": "^0.4.1",
+    "cookie-parser": "^1.3.2",
+    "ejs": "^1.0.0",
+    "express-session": "^1.6.5",
+    "mongodb": "^1.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stuller/NodeMongoAngular.git"
+  },
+  "keywords": [
+    "node",
+    "mongo",
+    "angular"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stuller/NodeMongoAngular/issues"
+  },
+  "homepage": "https://github.com/stuller/NodeMongoAngular"
+}
